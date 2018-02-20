@@ -1,0 +1,19 @@
+{
+  "name": "vuetify-theme-preview",
+  "version": "1.0.0",
+  "description": "A collection of Vuetify components for testing themes.",
+  "main": "dist/vuetify-theme-preview.js",
+  "scripts": {
+    "build": "rimraf ./dist && webpack --config ./webpack.config.js"
+  },
+  "author": "Jackson Miller",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {},
+  "devDependencies": {
+    "vuetify": "^1.0.0",
+    "webpack": "^3.11.0",
+    "webpack-merge": "^4.1.1"
+  },
+  "keywords": []
+}
