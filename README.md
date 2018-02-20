@@ -8,9 +8,7 @@ This is useful for testing standard vuetify components while create custom theme
 
 ```vue
 <template>
-  <div>
-    <vuetify-theme-preview></vuetify-theme-preview>
-  </div>
+  <vuetify-theme-preview></vuetify-theme-preview>
 </template>
 
 <script >
